@@ -1,0 +1,3 @@
+[submodule "submodule-experiment-a"]
+	path = submodule-experiment-a
+	url = https://github.com/andys8/submodule-experiment-a.git
